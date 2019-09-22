@@ -239,7 +239,7 @@
   )
 
   (module Package_QFP:TQFP-44_10x10mm_P0.8mm (layer B.Cu) (tedit 5A02F146) (tstamp 5D875281)
-    (at 73.81875 35.71875 90)
+    (at 71.4375 35.71875 90)
     (descr "44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFP 0.8")
     (path /5D8C75E0)
@@ -457,7 +457,7 @@
   )
 
   (module random-keyboard-parts:SKQG-1155865 (layer B.Cu) (tedit 5C42C5DE) (tstamp 5D873CC1)
-    (at 71.501 61.11875 180)
+    (at 68.326 61.11875 180)
     (path /5D8959B5)
     (attr smd)
     (fp_text reference SW1 (at 0 -4.064) (layer B.SilkS)
@@ -777,7 +777,7 @@
   )
 
   (module Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder (layer B.Cu) (tedit 5B301BBE) (tstamp 5D873C03)
-    (at 68.2625 51.59375 270)
+    (at 65.0875 51.59375 270)
     (descr "Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5D8C8139)
